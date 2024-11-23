@@ -4,21 +4,7 @@
   <img src="https://raw.githubusercontent.com/gophers/artwork/master/gopher-front.png" width="200"/>
 </p>
 
-## 🚀 About Me
-Backend Developer specializing in Go (Golang) | Building robust REST APIs and microservices
 
-## 🛠️ Current Project: Go-Bank API
-A RESTful banking API built with:
-- Go
-- PostgreSQL
-- Docker
-- Gorilla Mux
-
-### Features
-- Account Management (CRUD)
-- Transaction Processing
-- RESTful Architecture
-- Docker Containerization
 
 ## 💻 Tech Stack
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -51,10 +37,7 @@ A RESTful banking API built with:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SangBejoo&theme=tokyo-night)
 
 ## 🌱 Learning Goals
-- Advanced Go Patterns
-- Microservices Architecture
-- Cloud Native Development
-- System Design
+- jadi Bejoo
 
 ## 📫 Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/SangBejoo)
