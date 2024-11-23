@@ -3,7 +3,7 @@
 I'm a passionate developer with experience in backend development and containerization.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gophers/artwork/master/gopher-front.png" width="200"/>
+  <img src="[https://raw.githubusercontent.com/gophers/artwork/master/gopher-front.png](https://media1.tenor.com/m/5wn9MtW_PYUAAAAd/marin-kitagawa.gif)" width="200"/>
 </p>
 
 ## 💻 Tech Stack
