@@ -55,19 +55,14 @@ Backend enthusiast focused on building scalable, reliable, and clean architectur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SangBejoo&show_icons=true&theme=ambient_gradient&hide_border=false" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=SangBejoo&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangBejoo&theme=ambient_gradient&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
+---
 
-### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SangBejoo&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://komarev.com/ghpvc/?username=SangBejoo&style=for-the-badge" alt="Profile Views" />
 </p>
-
 ---
 
 <p align="center">
