@@ -5,14 +5,20 @@ Backend enthusiast focused on building scalable, reliable, and clean architectur
 ---
 
 ### 💫 About Me
-* 🔭 **Currently exploring:** Scalable Backend Architecture & Cloud Native tools
+* 🔭 **Currently working on:** Scalable Backend Architecture & Cloud Native tools
 * 🌱 **Sharpening skills in:** Go, System Design, & Distributed Databases
 * 💬 **Ask me about:** Backend engineering, APIs, and modern web tech
 * 📫 **Reach out:** [ayubsubagiya@gmail.com](mailto:ayubsubagiya@gmail.com)
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayub-subagiya/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayubsubagiya@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/ayub-subagiya/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ayubsubagiya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
@@ -49,8 +55,8 @@ Backend enthusiast focused on building scalable, reliable, and clean architectur
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SangBejoo&theme=ambient_gradient&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SangBejoo&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SangBejoo&show_icons=true&theme=ambient_gradient&hide_border=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=SangBejoo&theme=ambient_gradient&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -65,5 +71,35 @@ Backend enthusiast focused on building scalable, reliable, and clean architectur
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=SangBejoo&icon=0&color=0" alt="Visitor Count" />
-</p>
+  <img src="https://komarev.com/ghpvc/?username=SangBej```markdown
+# Project Name
+
+Deskripsi singkat mengenai service, arsitektur, dan fungsionalitas utama yang disediakan oleh modul atau repositori ini.
+
+---
+
+## Tech Stack
+
+* **Language/Runtime:** Go (1.2x+) / Node.js / etc.
+* **Communication:** gRPC, Protocol Buffers, REST API
+* **Database & Cache:** PostgreSQL, Redis
+* **Containerization:** Docker, Docker Compose
+
+---
+
+## Prasyarat (Prerequisites)
+
+* Go `>= 1.22` / Docker `>= 24.0`
+* `protoc` compiler & plugins (jika mengompilasi protobuf)
+* PostgreSQL & Redis running instance
+
+---
+
+## Quick Start
+
+### 1. Clone & Setup Environment
+
+```bash
+git clone <repository-url>
+cd <project-folder>
+cp .env.example .env
